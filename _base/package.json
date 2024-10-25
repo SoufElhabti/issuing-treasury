@@ -33,7 +33,7 @@
     "jsonwebtoken": "^9.0.2",
     "libphonenumber-js": "^1.10.55",
     "next": "^14.1.0",
-    "next-auth": "^4.24.5",
+    "next-auth": "^4.24.9",
     "nprogress": "^0.2.0",
     "qs": "^6.11.2",
     "react": "^18.2.0",
